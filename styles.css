@@ -88,3 +88,9 @@ ul {
     display: flex;
     justify-content: center;
 }
+
+.party-card {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
