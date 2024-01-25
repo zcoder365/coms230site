@@ -99,3 +99,8 @@ ul {
     border: solid 2px white;
     width: 15%;
 }
+
+.page-text {
+    margin-left: 10%;
+    margin-right: 10%;
+}
