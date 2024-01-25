@@ -76,6 +76,7 @@ ul {
     position: relative;
     display: flex;
     justify-content: center;
+    width: 100%;
 }
 
 .card {
@@ -88,6 +89,7 @@ ul {
     position: relative;
     display: flex;
     justify-content: center;
+    width: 100%;
 }
 
 .party-card {
