@@ -72,7 +72,7 @@ ul {
 
 .representatives {
     position: relative;
-    display: flex-box;
+    display: inline-block;
     justify-content: center;
     width: 100%;
 }
@@ -85,7 +85,7 @@ ul {
 
 .parties {
     position: relative;
-    display: flex-box;
+    display: inline-block;
     justify-content: center;
     width: 100%;
 }
