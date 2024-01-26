@@ -3,8 +3,6 @@ body {
     background-color: #1A212C;
     color: #D8D9DB;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, serif;
-    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-    /* font-family: cursive; */
     font-size: 15px;
     width: 100%;
 }
@@ -93,7 +91,7 @@ ul {
 }
 
 .party-card {
-    display: inline-block;
+    /* display: inline-block; */
     padding-left: 20px;
     padding-right: 20px;
     margin-left: 20px;
