@@ -4,7 +4,7 @@ body {
     color: #D8D9DB;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, serif;
     font-size: 15px;
-    width: 100%;
+    width: auto;
 }
 
 footer {
