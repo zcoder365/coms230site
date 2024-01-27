@@ -55,7 +55,7 @@ h3 {
     display: inline-block;
     padding-left: 1em;
     left: 47%;
-    transform: translateX(-40%);
+    transform: translateX(-50%);
 }
 
 .list-header {
@@ -89,14 +89,12 @@ h3 {
     position: relative;
     display: inline-block;
     justify-content: center;
-    width: 100%;
 }
 
 .party-card {
     display: inline-block;
     padding-left: 20px;
     padding-right: 20px;
-    width: auto;
     border: solid 2px white;
 }
 
