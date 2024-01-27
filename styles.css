@@ -108,3 +108,7 @@ ul {
 .bg-important {
     font-size: 18px;
 }
+
+.split-content {
+    column-count: 2;
+}
