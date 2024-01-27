@@ -109,14 +109,14 @@ ul {
     font-size: 18px;
 }
 
-.split-content {
-    column-count: 2;
-}
+/* .split-content {
+    display: float;
+} */
 
 .col-li {
     position: relative;
-    display: inline;
-    padding-left: 1em;
+    display: float;
+    /* padding-left: 1em; */
     left: 47%;
     transform: translateX(-40%);
 }
