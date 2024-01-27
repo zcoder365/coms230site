@@ -109,12 +109,12 @@ h3 {
     font-size: 18px;
 }
 
-.split-content {
+/* .split-content {
     /* display: flex;
     width: 50%; */
-    column-count: 2;
+    /* column-count: 2;
     column-gap: 50px;
-}
+} */
 
 .col-li {
     left: 47%;
