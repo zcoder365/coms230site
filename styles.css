@@ -112,3 +112,11 @@ ul {
 .split-content {
     column-count: 2;
 }
+
+.col-li {
+    position: relative;
+    display: inline-block;
+    padding-left: 1em;
+    left: 47%;
+    transform: translateX(-40%);
+}
