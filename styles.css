@@ -51,7 +51,7 @@ h3 {
 } */
 
 .list {
-    position: relative;
+    position: flex;
     display: inline-block;
     padding-left: 1em;
     left: 47%;
@@ -60,7 +60,7 @@ h3 {
 
 .list-header {
     position: relative;
-    /* display: inline-block; */
+    display: inline-block;
     padding-left: 1em;
     left: 70%;
     transform: translateX(-40%);
