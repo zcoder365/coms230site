@@ -45,10 +45,10 @@ h3 {
     color: #82C7A5;
 }
 
-ul {
+/* ul {
     left: 47%;
     transform: translateX(10%);
-}
+} */
 
 .list {
     position: relative;
@@ -110,8 +110,10 @@ ul {
 }
 
 .split-content {
-    float: left;
-    width: 50%;
+    /* display: flex;
+    width: 50%; */
+    column-count: 2;
+    column-gap: 50px;
 }
 
 .col-li {
